@@ -63,4 +63,4 @@ Through this project, I gained practical experience in:
 
 **Project:** PaperNest – 30-Day Social Media Content Calendar
 
-**Created by:** Nandini Reddimalli
+**Created by:** Reddi Malli Nandini
